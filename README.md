@@ -1,4 +1,4 @@
-# Get-to-Know-Wine
+# Get to Know Wine
 A supporting material of a [medium](https://medium.com/) post <b>["A 'Non-Subjective' Guide to Wine"](https://medium.com/@aryaindratanaya/a-non-subjective-guide-to-wine-b98a61df4b0c)</b>.
 
 ## Installation
